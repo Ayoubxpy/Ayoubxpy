@@ -8,7 +8,7 @@
   <h1>Hello there, I'm Ayoub!</h1>
 </div>
 
-I'm a front-end developer from Morocco with a passion for building clean, interactive, and user-friendly web experiences. I'm documenting my journey of learning and growing as a developer here on my GitHub profile.
+I'm a **full-stack developer** on an exciting learning journey, building my skills in both front-end and back-end technologies. I'm passionate about creating complete, functional, and user-friendly web applications from the ground up. I'm documenting my progress and projects here on GitHub.
 
 <!-- Social Links - UPDATE THESE WITH YOUR REAL URLs -->
 <div align="center">
