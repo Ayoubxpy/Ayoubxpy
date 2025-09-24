@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- You can find other fun gifs to use here -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+  <img src="https://giphy.com/gifs/Smolverse-builder-smol-smolverse-QXwtfadqo7wbfmT46H" width="5%">
   <h1>Hello there, I'm Ayoub!</h1>
 </div>
 
