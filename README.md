@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- You can find other fun gifs to use here -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjF2N3l5YmJ5cmVxbWRwbWZsNHdqaGNrZnIxdHJweGFqNGE1aWFhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="5%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjF2N3l5YmJ5cmVxbWRwbWZsNHdqaGNrZnIxdHJweGFqNGE1aWFhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="25%">
   <h1>Hello there, I'm Ayoub!</h1>
 </div>
 
