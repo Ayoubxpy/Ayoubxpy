@@ -1,5 +1,5 @@
 <!-- 
-  This is a special repository. Its README.md will appear on your public profile!
+  This is a special repository.
 -->
 
 <div align="center">
