@@ -42,8 +42,8 @@ These images will update automatically every day!
 
 | Project | Description | Key Skills |
 | :--- | :--- | :--- |
-| 💼 **[Digital Business Card](https://github.com/Ayoubxpy/Business-Card-Project)** | A stylish, single-page digital business card. | `HTML`, `CSS`, `Flexbox` |
-| 🖼️ **[NFT Site Landing Page](https://github.com/Ayoubxpy/Nft-Site)** | A static landing page for a conceptual NFT website. | `CSS Layout`, `Specificity`, `Flexbox` |
-| 🔢 **[People Counter App](https://github.com/Ayoubxpy/People-Counter-App)** | A simple app to count entries and save the history. | `JavaScript`, `DOM`, `Event Listeners` |
+| 😻 **[Meme-Picker](https://github.com/Ayoubxpy/Meme-Picker)** |The app allows users to select an emotion and receive a cat meme that matches their mood. | `HTML`, `CSS`, `JavaScript` |
+| 🍟 **[Restaurant-Ordering-App](https://github.com/Ayoubxpy/Restaurant-Ordering-App)** | . It simulates a real-world food ordering experience. | `HTML`, `CSS`, `JavaScript` |
+| 🔢 **[Cookie Consent Modal](https://github.com/Ayoubxpy/Cookie-Consent-Modal)** | Fully functional cookie consent modal built with vanilla JavaScript. | `JavaScript`, `HTML`, `CSS` |
 
 ---
