@@ -1,49 +1,21 @@
-<!-- 
-  This is a special repository.
--->
+# 💫 About Me:
+I'm a full-stack developer on an exciting learning journey, building my skills in both front-end and back-end technologies. I'm passionate about creating complete, functional, and user-friendly web applications from the ground up. I'm documenting my progress and projects here on GitHub.
 
-<div align="center">
-  <!-- You can find other fun gifs to use here -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjF2N3l5YmJ5cmVxbWRwbWZsNHdqaGNrZnIxdHJweGFqNGE1aWFhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="25%">
-  <h1>Hello there, I'm Ayoub!</h1>
-</div>
 
-I'm a **full-stack developer** on an exciting learning journey, building my skills in both front-end and back-end technologies. I'm passionate about creating complete, functional, and user-friendly web applications from the ground up. I'm documenting my progress and projects here on GitHub.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayoubloudini7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-loudini-368120255) 
 
-<!-- Social Links - UPDATE THESE WITH YOUR REAL URLs -->
-<div align="center">
-  <a href="https://x.com/Littleaspass">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ayoubxpy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ayoubxpy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubxpy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ayoubxpy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ayoubxpy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📈 My GitHub Stats & Languages
-
-These images will update automatically every day!
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <!-- GitHub Stats Card -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Ayoubxpy&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Ayoub's GitHub Stats"/>
-    </td>
-    <td valign="top" width="50%">
-      <!-- Top Languages Card -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoubxpy&layout=compact&theme=dracula&hide_border=true" alt="Ayoub's Top Languages"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 My Projects
-
-| Project | Description | Key Skills |
-| :--- | :--- | :--- |
-| 😻 **[Meme-Picker](https://github.com/Ayoubxpy/Meme-Picker)** |The app allows users to select an emotion and receive a cat meme that matches their mood. | `HTML`, `CSS`, `JavaScript` |
-| 🍟 **[Restaurant-Ordering-App](https://github.com/Ayoubxpy/Restaurant-Ordering-App)** | . It simulates a real-world food ordering experience. | `HTML`, `CSS`, `JavaScript` |
-| 🔢 **[Cookie Consent Modal](https://github.com/Ayoubxpy/Cookie-Consent-Modal)** | Fully functional cookie consent modal built with vanilla JavaScript. | `JavaScript`, `HTML`, `CSS` |
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
