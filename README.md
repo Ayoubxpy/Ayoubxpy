@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm a full-stack developer on an exciting learning journey, building my skills in both front-end and back-end technologies. I'm passionate about creating complete, functional, and user-friendly web applications from the ground up. I'm documenting my progress and projects here on GitHub.
+![Profile Views](https://komarev.com/ghpvc/?username=Ayoubxpy&color=0e75b6&style=flat)
 
 
 ## 🌐 Socials:
@@ -19,3 +20,4 @@ I'm a full-stack developer on an exciting learning journey, building my skills i
 [![](https://visitcount.itsvg.in/api?id=ayoubxpy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ If you like my work, feel free to star my repositories!
