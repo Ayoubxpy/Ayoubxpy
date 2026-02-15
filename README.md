@@ -22,7 +22,7 @@
  
 <div align="center"> 
   <a href="mailto:ayoubld2018@outlook.com">
-    <img src="https://img.shields.io/badge/outlook-333333?style=for-the-badge&logo=outlook&logoColor=red%22" />
+    <img src="https://img.shields.io/badge/Outlook-333333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/ayoubloudini7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -44,7 +44,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ayoubxpy/ayoubxpy/output/github-contribution-grid-snake.svg" />
+  <img loading="lazy" alt="snake eating my contributions" src="https://raw.githubusercontent.com/ayoubxpy/ayoubxpy/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -54,15 +54,14 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubxpy&theme=react&border_radius=10" alt="streak stats"/>
+  <img loading="lazy" width=390 src="https://streak-stats.demolab.com?user=ayoubxpy&theme=react&border_radius=10" alt="streak stats"/>
   
-  <img width=390 src="https://github-readme-stats-nine-xi-31.vercel.app/api?username=ayoubxpy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img loading="lazy" width=390 src="https://github-readme-stats-nine-xi-31.vercel.app/api?username=ayoubxpy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
   <br/>
   
-  <img width=325 align="center" src="https://github-readme-stats-nine-xi-31.vercel.app/api/top-langs/?username=ayoubxpy&count_private=true&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img loading="lazy" width=325 align="center" src="https://github-readme-stats-nine-xi-31.vercel.app/api/top-langs/?username=ayoubxpy&count_private=true&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 
 <br/><br/>
 
